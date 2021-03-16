@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 Im Dimas Angkasa Nurindra, nice to meet you!
+![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=angkasa27&show_icons=true&hide_border=true&icon)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angkasa27&layout=compact&show_icons=true&hide_border=true&icon)
 
-### Stats
 
-![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=angkasa27&show_icons=true&hide_border=true&icon)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angkasa27&layout=compact&show_icons=true&hide_border=true&icon)
 
 
 
