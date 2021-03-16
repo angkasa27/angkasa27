@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**angkasa27/angkasa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Dimas Angkasa Nurindra, nice to meet you!
 
-Here are some ideas to get you started:
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=angkasa27&show_icons=true&theme=tokyonight&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angkasa27&layout=compact&theme=tokyonight&text_color=fff)
+
+
+
+### 📫 Contact & Social Media
+ <a href="mailto:mas.angkasa27@gmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/-gmail:%20mas.angkasa27@gmail.com-ea4335?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/mas.angkasa27" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram:%20@mas.angkasa27-E4406F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/dimas-angkasa-nurindra-a1750719b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn:%20Dimas%20Angkasa%20Nurindra-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ <a href="https://linktr.ee/angkasa27" target="_blank"><img alt="linktree" src="https://img.shields.io/badge/-Linktree:%20angkasa27-39e09b?&style=for-the-badge&logo=linktree&logoColor=white" /></a>
+
+create with :heart: by [Dimas Angkasa Nurindra](https://github.com/angkasa27)
+
