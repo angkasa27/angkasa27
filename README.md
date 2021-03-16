@@ -4,9 +4,9 @@ Im Dimas Angkasa Nurindra, nice to meet you!
 
 ### Stats
 
-![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=angkasa27&show_icons=true&theme=tokyonight&text_color=fff)
+![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?&show_icons=true&hide_border=true&icon)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angkasa27&layout=compact&theme=tokyonight&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angkasa27&layout=compact&show_icons=true&hide_border=true&icon)
 
 
 
