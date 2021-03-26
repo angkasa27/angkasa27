@@ -7,7 +7,7 @@ Im Dimas Angkasa Nurindra, nice to meet you!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angkasa27&show_icons=true&icon)
 
 ### My Project
-[MyComplaint](https://angkasa27.github.io/react-tailwind-mycomplaint/)
+- [MyComplaint](https://angkasa27.github.io/react-tailwind-mycomplaint/)
 - [BootstrapGenerator](https://angkasa27.github.io/BootstrapGenerator/)
 - [Traveline](https://traveline.web.app/)
 - [Socied](https://socied.web.app/)
