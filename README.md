@@ -7,16 +7,16 @@ Im Dimas Angkasa Nurindra, nice to meet you!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angkasa27&show_icons=true&icon)
 
 ### My Project
-#2021
+2021
 - [MyComplaint](https://angkasa27.github.io/react-tailwind-mycomplaint/)
 - [Traveline](https://traveline.web.app/)
 - [Socied](https://socied.web.app/)
 
-#2020
+2020
 - [4.0(RevolusiIndustri)](https://angkasa27.github.io/Web-Revolusi-Industri/)
 - [BootstrapGenerator](https://angkasa27.github.io/BootstrapGenerator/)
 
-#2019
+2019
 - [Pantang(HariPahlawan)](https://angkasa27.github.io/Web-Pantang-Hari-Pahlawan/)
 - [Cegah(HIV/AIDS)](https://angkasa27.github.io/Web-Pantang-Hari-Pahlawan/)
 - [WebCamp](https://angkasa27.github.io/Web-WebCamp/)
