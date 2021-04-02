@@ -8,7 +8,7 @@ Im Dimas Angkasa Nurindra, nice to meet you!
 
 ### My Project
 2021
-- [glassmorphism](https://angkasa27.github.io/react-tailwind-glassmorphic/)
+- [Glassmorphism Portfolio](https://angkasa27.github.io/react-tailwind-glassmorphic/)
 - [MyComplaint](https://angkasa27.github.io/react-tailwind-mycomplaint/)
 - [Traveline](https://traveline.web.app/)
 - [Socied](https://socied.web.app/)
