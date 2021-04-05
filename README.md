@@ -25,7 +25,7 @@ ReactJS
 - [BootstrapGenerator](https://angkasa27.github.io/BootstrapGenerator/)
 
 Other
-- [Music Concert](https://angkasa27.github.io/web-Music-concert/)
+- [Hexagon Asa](https://angkasa27.github.io/web-Hexagon-asa/)
 - [Fish Pond](https://angkasa27.github.io/web-Fish-pond/)
 - [Ramadhan Count Down](https://angkasa27.github.io/web-Ramadhan-count-down/)
 
