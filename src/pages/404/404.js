@@ -34,14 +34,14 @@ export function Main() {
         <h3 className="text-xl sm:text-2xl md:text-3xl mb-3 md:mb-5 font-bold md:text-left text-center">
           Sorry!
         </h3>
-        <h1 className="text-3xl sm:text-5xl md:text-9xl font-black mb-3 md:mb-5 text-yellow-300 md:text-left text-center">
+        <h1 className="text-3xl sm:text-5xl md:text-9xl font-black mb-3 md:mb-5 text-yellow-500 md:text-left text-center">
           404
         </h1>
         <p className="text-xl font-semibold md:text-left text-center">
           This page is still in progress
         </p>
         <span
-          className="md:mb-24 text-xl font-semibold md:text-left text-center text-yellow-300 hover:text-yellow-400 transition-default cursor-pointer"
+          className="md:mb-24 text-xl font-semibold md:text-left text-center text-yellow-500 hover:text-yellow-600 transition-default cursor-pointer"
           onClick={() => history.push('/react-tailwind-glassmorphic')}
         >
           back to main

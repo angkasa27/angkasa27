@@ -4,7 +4,8 @@ export default function Header({ name }) {
   return (
     <div
       className={
-        'flex justify-between px-3 border-b ' + (name ? 'py-1' : 'py-3')
+        'flex justify-between px-3 border-b border-gray-800 ' +
+        (name ? 'py-1' : 'py-3')
       }
     >
       <p className="font-mono font-bold">{name}</p>

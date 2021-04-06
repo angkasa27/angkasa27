@@ -38,10 +38,10 @@ export function Main() {
       <Header name="welcome.txt" />
       <div className="flex flex-col justify-center md:items-baseline h-full md:px-10 py-14 md:py-0 md:w-2/3 ">
         <h3 className="text-xl sm:text-2xl md:text-3xl mb-3 md:mb-5 font-bold md:text-left text-center">
-          Hi! I'm <span className="text-yellow-300">Dimas</span> Angkasa
+          Hi! I'm <span className="text-yellow-500">Dimas</span> Angkasa
         </h3>
-        <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold mb-3 md:mb-5 text-yellow-300 md:text-left text-center">
-          Graphic Designer <span className="text-white">&</span>
+        <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold mb-3 md:mb-5 text-yellow-500 md:text-left text-center">
+          Graphic Designer <span className="text-gray-800">&</span>
           <br className="md:hidden" /> Front End Developer
         </h1>
 

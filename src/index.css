@@ -33,9 +33,9 @@ code {
 }
 
 .nav-link{
-  @apply text-lg font-bold cursor-pointer  rounded-full px-3 py-1 hover:bg-yellow-400 hover:text-white
+  @apply text-lg font-bold cursor-pointer  rounded-full px-3 py-1 hover:bg-yellow-500 hover:text-white
 }
 
 .bg-window{
-  @apply bg-white bg-opacity-20 shadow-lg rounded-xl 
+  @apply bg-white bg-opacity-20 shadow-lg rounded-xl border border-gray-800
 }

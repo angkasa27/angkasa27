@@ -54,7 +54,7 @@ export function Main() {
             className="sm:w-36 sm:h-40 w-48 h-56 object-cover rounded-lg"
           />
           <div className="sm:ml-5 flex flex-col justify-center">
-            <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold mb-2 md:mb-3 text-yellow-300 sm:text-left text-center mt-5 sm:mt-0">
+            <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold mb-2 md:mb-3 text-yellow-500 sm:text-left text-center mt-5 sm:mt-0">
               Dimas Angkasa Nurindra
             </h1>
             <h3 className="text-xl sm:text-2xl md:text-3xl font-bold sm:text-left text-center">
@@ -112,8 +112,8 @@ export function Progress({ name, width, idx }) {
   return (
     <>
       <p className={idx > 0 && 'mt-3'}>{name}</p>
-      <div className="w-full h-2 bg-white bg-opacity-30 rounded-full">
-        <div className={'h-full bg-yellow-300 rounded-full ' + width} />
+      <div className="w-full h-2 bg-gray-500 bg-opacity-30 rounded-full">
+        <div className={'h-full bg-yellow-500 rounded-full ' + width} />
       </div>
     </>
   );
@@ -139,7 +139,7 @@ export function Other() {
       <div className="mx-5 py-4 flex flex-col">
         <a
           href="https://drive.google.com/drive/folders/1vx9e_PoWhkUeoWuZ3ygN26P6PS5lYDBh?usp=sharing"
-          className="text-lg font-semibold hover:text-yellow-300"
+          className="text-lg font-semibold hover:text-yellow-500"
           target="_blank"
           rel="noreferrer"
         >
@@ -147,7 +147,7 @@ export function Other() {
         </a>
         <a
           href="https://drive.google.com/file/d/1zgQtkukmmfEn-mbfy6ikaQAybJIeC5ej/view?usp=sharing"
-          className="text-lg font-semibold mt-3 hover:text-yellow-300"
+          className="text-lg font-semibold mt-3 hover:text-yellow-500"
           target="_blank"
           rel="noreferrer"
         >
@@ -155,7 +155,7 @@ export function Other() {
         </a>
         <a
           href="https://linktr.ee/angkasa27"
-          className="text-lg font-semibold mt-3 hover:text-yellow-300"
+          className="text-lg font-semibold mt-3 hover:text-yellow-500"
           target="_blank"
           rel="noreferrer"
         >

@@ -12,7 +12,7 @@ export default function Nav({ className }) {
       <div className="flex flex-col sm:flex-row justify-center sm:justify-between items-center">
         <NavLink
           to="/react-tailwind-glassmorphic"
-          className="cursor-pointer text-yellow-300 hover:text-yellow-400 transition-default text-2xl font-black w-full sm:w-auto text-center border-b sm:border-0"
+          className="cursor-pointer text-yellow-500 hover:text-yellow-600 transition-default text-2xl font-black w-full sm:w-auto text-center border-b sm:border-0"
         >
           angkasa27
         </NavLink>

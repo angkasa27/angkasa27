@@ -22,7 +22,7 @@ export default function App() {
   }, [location.pathname]);
 
   return (
-    <div className="bg-gradient-to-br from-red-500 via-purple-500  to-blue-500  text-white font-nunito min-h-screen min-w-screen p-5 md:p-0 overflow-hidden">
+    <div className="bg-gray-100  text-gray-800 font-nunito min-h-screen min-w-screen p-5 md:p-0 overflow-hidden">
       <Nav className={classes} />
       <Switch>
         <Route exact path="/react-tailwind-glassmorphic/" component={Home} />
