@@ -26,6 +26,7 @@ ReactJS
 
 Other
 - [Hexagon Asa](https://angkasa27.github.io/web-hexagon-asa/)
+- [Music concert](https://angkasa27.github.io/web-music-concert/)
 - [Fish Pond](https://angkasa27.github.io/web-Fish-pond/)
 - [Ramadhan Count Down](https://angkasa27.github.io/web-Ramadhan-count-down/)
 
