@@ -25,19 +25,10 @@ export default function App() {
     <div className="bg-gray-100  text-gray-800 font-nunito min-h-screen min-w-screen p-5 md:p-0 overflow-hidden">
       <Nav className={classes} />
       <Switch>
-        <Route exact path="/react-tailwind-glassmorphic/" component={Home} />
-        <Route
-          exact
-          path="/react-tailwind-glassmorphic/project"
-          component={Project}
-        />
-        <Route
-          exact
-          path="/react-tailwind-glassmorphic/about"
-          component={About}
-        />
-        <Route exact path="/react-tailwind-glassmorphic/work" component={Err} />
-        <Route path="/react-tailwind-glassmorphic" component={Home} />
+        <Route exact path="/" component={Home} />
+        <Route exact path="/project" component={Project} />
+        <Route exact path="/about" component={About} />
+        <Route exact path="/work" component={Err} />
       </Switch>
     </div>
   );
