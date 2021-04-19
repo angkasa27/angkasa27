@@ -20,6 +20,7 @@ Static Web For Competition
 - [NgalamRek!](https://angkasa27.github.io/Web-Ngalam-rek/)
 
 ReactJS
+- [MarioPlan](https://netninja-marioplan-9a506.web.app/)
 - [Glassmorphic Portfolio](https://angkasa27.github.io/react-tailwind-glassmorphic/)
 - [MyComplaint](https://angkasa27.github.io/react-tailwind-mycomplaint/)
 - [BootstrapGenerator](https://angkasa27.github.io/BootstrapGenerator/)
