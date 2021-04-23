@@ -8,6 +8,12 @@ Im Dimas Angkasa Nurindra, nice to meet you!
 
 ### My Project
 
+ReactJS
+- [MarioPlan](https://netninja-marioplan-9a506.web.app/)
+- [Glassmorphic Portfolio](https://angkasa27.github.io/react-tailwind-glassmorphic/)
+- [MyComplaint](https://angkasa27.github.io/react-tailwind-mycomplaint/)
+- [BootstrapGenerator](https://angkasa27.github.io/BootstrapGenerator/)
+
 Static Web For Competition
 - [Traveline](https://traveline.web.app/)
 - [Socied](https://socied.web.app/)
@@ -18,12 +24,6 @@ Static Web For Competition
 - [MilenialKeren](https://angkasa27.github.io/Web-Milenial-Keren/)
 - [StopNganggur](https://angkasa27.github.io/Web-Stop-Nganggur/)
 - [NgalamRek!](https://angkasa27.github.io/Web-Ngalam-rek/)
-
-ReactJS
-- [MarioPlan](https://netninja-marioplan-9a506.web.app/)
-- [Glassmorphic Portfolio](https://angkasa27.github.io/react-tailwind-glassmorphic/)
-- [MyComplaint](https://angkasa27.github.io/react-tailwind-mycomplaint/)
-- [BootstrapGenerator](https://angkasa27.github.io/BootstrapGenerator/)
 
 Other
 - [Hexagon Asa](https://angkasa27.github.io/web-hexagon-asa/)
