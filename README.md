@@ -38,4 +38,3 @@ Other
  <a href="https://linktr.ee/angkasa27" target="_blank"><img alt="linktree" src="https://img.shields.io/badge/-Linktree:%20angkasa27-39e09b?&style=for-the-badge&logo=linktree&logoColor=white" /></a>
 
 create with :heart: by [Dimas Angkasa Nurindra](https://github.com/angkasa27)
-
