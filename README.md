@@ -26,6 +26,7 @@ Static Web For Competition
 - [NgalamRek!](https://angkasa27.github.io/Web-Ngalam-rek/)
 
 Other
+- [Holiday Parallax](https://angkasa27.github.io/web-Holiday-parallax/)
 - [Hexagon Asa](https://angkasa27.github.io/web-hexagon-asa/)
 - [Music concert](https://angkasa27.github.io/web-Music-concert)
 - [Fish Pond](https://angkasa27.github.io/web-Fish-pond/)
