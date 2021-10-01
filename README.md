@@ -7,7 +7,7 @@ Im a fresh graduate from SMK Telkom Malang. Currently working at PT Telkom Indon
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angkasa27&show_icons=true&icon)
 
-### My Project
+### My Personal Project
 
 ReactJS
 - [MarioPlan](https://netninja-marioplan-9a506.web.app/)
