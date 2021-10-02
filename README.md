@@ -14,6 +14,7 @@ ReactJS
 - [Glassmorphic Portfolio](https://angkasa27.github.io/react-tailwind-glassmorphic/)
 - [MyComplaint](https://angkasa27.github.io/react-tailwind-mycomplaint/)
 - [BootstrapGenerator](https://angkasa27.github.io/BootstrapGenerator/)
+- [Frekuensi 27 Portal](https://angkasa27.github.io/react-frekuensi27/)
 
 Static Web For Competition
 - [Traveline](https://traveline.web.app/)
