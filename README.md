@@ -11,6 +11,7 @@ Im a fresh graduate from SMK Telkom Malang. Currently working at PT Telkom Indon
 
 Main
 - [Angkasa27](https://angkasa27.github.io)
+- [Portfolio](https://angkasa27.github.io/react-tailwind-portfoliov2/)
 
 ReactJS
 - [Frekuensi 27 Portal](https://angkasa27.github.io/react-frekuensi27/)
