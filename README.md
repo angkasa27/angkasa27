@@ -10,7 +10,8 @@ Im a fresh graduate from SMK Telkom Malang. Currently working at PT Telkom Indon
 ### My Personal Project
 
 Main
-- [Angkasa27](https://angkasa27.github.io)
+- [Main](https://angkasa27.github.io)
+- [Glass Window](https://angkasa27.github.io/angkasa27)
 - [Portfolio](https://angkasa27.github.io/react-tailwind-portfoliov2/)
 
 ReactJS
