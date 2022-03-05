@@ -22,6 +22,9 @@ ReactJS
 - [MarioPlan](https://netninja-marioplan-9a506.web.app/)
 - [BootstrapGenerator](https://angkasa27.github.io/BootstrapGenerator/)
 
+PWA
+- [Weather App](https://weather-app-angkasa27.netlify.app/)
+
 Static Web For Competition
 - [Traveline](https://traveline.web.app/)
 - [Socied](https://socied.web.app/)
