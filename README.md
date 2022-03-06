@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 Im Dimas Angkasa Nurindra, nice to meet you!
-Im a fresh graduate from SMK Telkom Malang. Currently working at PT Telkom Indonesia Digital and Next Bussiness at Tribe Enterprise and Wholesale Digitization. My expertises are Graphic Designer and FrontEnd Web Developer using ReactJS. Currently, im learning about TailwindCSS.
+Im a fresh graduate from SMK Telkom Malang. Currently working at PT Telkom Indonesia Digital and Next Bussiness at Tribe Enterprise and Wholesale Digitization. My expertises are Graphic Designer and FrontEnd Web Developer using ReactJS. Currently learning about Framer Motion.
 
 ![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=angkasa27&show_icons=true&icon)
 
