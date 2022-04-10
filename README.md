@@ -18,6 +18,7 @@ Main
 
 ReactJS
 - [MokletDev](https://mokletdev.vercel.app/)
+- [SuratBahagia](https://suratbahagia.id/)
 - [Frekuensi 27 Portal](https://angkasa27.github.io/react-frekuensi27/)
 - [MyComplaint](https://angkasa27.github.io/react-tailwind-mycomplaint/)
 - [Amir Web Portal](https://angkasa27.github.io/react-tailwind-amir/)
