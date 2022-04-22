@@ -10,7 +10,6 @@ Im a Front End Developer. Currently working at PT Telkom Indonesia Digital and N
 * 🖥️  See my portfolio at [here](http://angkasa27.github.io)
 * ✉️  You can contact me at [mas.angkasa27@gmail.com](mailto:mas.angkasa27@gmail.com)
 * 🚀  I'm currently working on [SuratBahagia.id](http://suratbahagia.id)
-* 🧠  I'm learning Frammer Motion
 
 ### Skills
 
