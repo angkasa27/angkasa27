@@ -4,7 +4,7 @@ Hi 👋 My name is Dimas Angkasa Nurindra
 FrontEnd Web Developer & Graphic Designer
 --------------------------------
 
-Im a Front End Developer. Currently working at PT Telkom Indonesia Digital and Next Bussiness at Tribe Enterprise and Wholesale Digitization. My expertises are Graphic Designer and FrontEnd Web Developer using ReactJS and NextJS.
+Im a Front End Developer. Currently working at PT Telkom Indonesia Digital and Next Bussiness at Tribe Enterprise and Wholesale Digitization. My expertises are Graphic Designer and FrontEnd Web Developer using NextJS and TailwindCSS.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [here](http://angkasa27.github.io)
