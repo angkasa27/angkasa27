@@ -1,4 +1,3 @@
-# Hello, World! 🌍
 
 ## One Month, One (New or Revamped) Project Challenge! 👨‍💻
 I'm challenging myself to create or revamp **one project per month** for a whole year! 🚀 Stay tuned as I build and improve exciting projects every month.
