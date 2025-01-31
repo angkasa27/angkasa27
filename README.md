@@ -1,5 +1,5 @@
 
-## One Month, One (New or Revamped) Project Challenge! 👨‍💻
+## One Month, One Project Challenge! 👨‍💻
 I'm challenging myself to create or revamp **one project per month** for a whole year! 🚀 Stay tuned as I build and improve exciting projects every month.
 
 ### Monthly Projects
