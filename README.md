@@ -4,7 +4,7 @@ I'm challenging myself to create or revamp **one project per month** for a whole
 
 ### Monthly Projects
 - **January** - [json-schema-editor](https://github.com/angkasa27/json-schema-editor)
-- **February** - ???
+- **February** - [mokletdev (Revamped)](https://github.com/angkasa27/mokletdev)
 - **March** - ???
 - **April** - ???
 - **May** - ???
