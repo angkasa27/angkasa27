@@ -8,7 +8,7 @@ I'm challenging myself to create or revamp **one project per month** for a whole
 - **March** - [asaa.dev](https://github.com/angkasa27/asaa.dev)
 - **April** - [custom-watermark-photos](https://github.com/angkasa27/custom-watermark-photos)
 - **May** - [public-api-movie-app](https://github.com/angkasa27/react-native-sample)
-- **June** - ???
+- **June** - [bulk-picture-watermark](https://github.com/angkasa27/bulk-picture-watermark)
 - **July** - ???
 - **August** - ???
 - **September** - ???
