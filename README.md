@@ -5,12 +5,12 @@ I'm challenging myself to create or revamp **one project per month** for a whole
 ### Monthly Projects
 - **January** - [json-schema-editor](https://github.com/angkasa27/json-schema-editor)
 - **February** - [mokletdev (Revamped)](https://github.com/angkasa27/mokletdev)
-- **March** - [asaa.dev](https://github.com/angkasa27/asaa.dev)
+- **March** - [asaa.dev](https://asaa.dev)
 - **April** - [custom-watermark-photos](https://github.com/angkasa27/custom-watermark-photos)
 - **May** - [public-api-movie-app](https://github.com/angkasa27/react-native-sample)
-- **June** - [bulk-picture-watermark](https://github.com/angkasa27/bulk-picture-watermark)
-- **July** - ???
-- **August** - ???
+- **June** - [timotiusmuliawan.com](https://www.timotiusmuliawan.com/) (Paid Project)
+- **July** - [bulk-picture-watermark](https://github.com/angkasa27/bulk-picture-watermark)
+- **August** - [dev.moklet.org](https://dev.moklet.org/)
 - **September** - ???
 - **October** - ???
 - **November** - ???
