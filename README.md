@@ -7,7 +7,7 @@ I'm challenging myself to create or revamp **one project per month** for a whole
 - **February** - [mokletdev-revamped](https://github.com/angkasa27/mokletdev)
 - **March** - [asaa.dev](https://asaa.dev)
 - **April** - [custom-watermark-photos](https://github.com/angkasa27/custom-watermark-photos)
-- **May** - [public-api-movie-app](https://github.com/angkasa27/react-native-sample)
+- **May** - [movie-mobile-app](https://github.com/angkasa27/react-native-sample)
 - **June** - [timotiusmuliawan.com](https://www.timotiusmuliawan.com/) (Paid Project)
 - **July** - [bulk-picture-watermark](https://github.com/angkasa27/bulk-picture-watermark)
 - **August** - [dev.moklet.org](https://dev.moklet.org/)
