@@ -11,8 +11,8 @@ I'm challenging myself to create or revamp **one project per month** for a whole
 - **June** - [timotiusmuliawan.com](https://www.timotiusmuliawan.com/) (Paid Project)
 - **July** - [bulk-picture-watermark](https://github.com/angkasa27/bulk-picture-watermark)
 - **August** - [dev.moklet.org](https://dev.moklet.org/)
-- **September** - [meteoid](https://meteoid.vercel.app/)
-- **October** - ???
+- **September** - [suratbahagia-revamped](https://suratbahagia.asaa.dev/)
+- **October** - [meteoid](https://meteoid.vercel.app/)
 - **November** - ???
 - **December** - ???
 
